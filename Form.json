@@ -1,0 +1,22 @@
+[
+  {
+    "field name": "username",
+    "type": "text",
+    "default value": null
+  },
+  {
+    "field name": "password",
+    "type": "password",
+    "default value": null
+  },
+  {
+    "field name": "terms",
+    "type": "checkbox",
+    "default value": null
+  },
+  {
+    "field name": null,
+    "type": "submit",
+    "default value": "Submit"
+  }
+]
